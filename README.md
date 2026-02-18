@@ -2,3 +2,4 @@
 Beginner friendly bird game inspired by FlappyBird &amp; based on pygame package with a little quirk of powerups. Enjoy!
 The files in this repo are from a virtual environment.
 Requirement: pygame only
+Use python-3.10 for better experience.
