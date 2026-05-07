@@ -1,4 +1,4 @@
-markdown_content = """# Chippu: Out in Wild 🦅🌲
+# **Chippu: Out in Wild 🦅🌲**
 
 **Chippu: Out in Wild** is a high-performance, retro-style 2D arcade survival game that pushes the boundaries of traditional side-scrollers. Built with Python and Pygame, it features procedural level generation, a custom dynamic scaling engine, and an innovative cloud-integrated AI system that generates real-time, context-aware dialogue based on your specific playstyle.
 
